@@ -162,3 +162,21 @@ We need to update our database setup and application python files to illustrate 
 `engine = create_engine('postgresql://catalog:catalog@localhost/catalog')`
 
 
+##  third-party resources
+ python
+
+ Apache2
+
+ Firewall (UFW)
+
+ Python mod_wsgi
+
+ ssh-keygen
+
+ AWS-server instance
+
+ Git
+
+ PostgreSQL
+
+ Flask
